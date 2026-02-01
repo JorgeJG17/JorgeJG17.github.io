@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true  # Esto es CLAVE para que descargue la plantilla
+          submodules: recursive  # Esto es CLAVE para que descargue la plantilla
           fetch-depth: 0
 
       - name: Setup Hugo
