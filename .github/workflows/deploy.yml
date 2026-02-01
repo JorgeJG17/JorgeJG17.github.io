@@ -1,0 +1,31 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - main  # Asegúrate de que tu rama principal se llame main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Esto es CLAVE para que descargue la plantilla
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true # Por si la plantilla usa SASS/SCSS
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public # La carpeta que genera Hugo
