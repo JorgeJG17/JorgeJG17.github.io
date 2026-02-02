@@ -275,56 +275,57 @@ params:
           url: "https://www.pildorasinformaticas.es/"
 
   # Achievements
-  achievements:
-    enable: true
+  #achievements:
+  # enable: true
     # title: "Custom Name"
-    items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievement.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievement.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievement.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+  #  items:
+  #    - title: Google kickstart runner
+  #      content: I solved all problems with optimal solution.
+  #      url: https://example.com
+  #      image: /images/achievement.jpg
+#      - title: Facebook Hackathon Winner
+ #       content: Developed a product using Artificial Intelligence.
+  #      image: /images/achievement.jpg
+#      - title: Hugo Profile
+#        content: Developed a theme and getting 1K+ downloads per month.
+#        url: "https://github.com/gurusabarish/hugo-profile"
+#        image: /images/achievement.jpg
+#      - title: Microsoft Imagine Runner
+#        content: We are developed a product which can help others.
+#      - title: Google Summer of Code
+#        content: Contributed to a open source project.
+#        url: https://example.com
 
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "Proyectos"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: NanoGym | Gestión de Rutinas
+        content: NanoGym nace de una necesidad personal, eliminar la fricción en el gimnasio. Utilizaba una hoja de cálculo para guardar mis rutinas y pesos, y decidí hacer mi propia app para tener mis registros guardados. Mientras que las aplicaciones comerciales se han vuelto pesadas, llenas de publicidad y dependientes de una conexión a internet, NanoGym apuesta por el minimalismo y la privacidad total.
+        image: /images/projects/logo_app.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: Web
+          link: https://nanogym.super.site/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Java"
+          - "SQL"
+          - "Android Studio"
+          - "SQLite"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          #- icon: fa fa-envelope
+          #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://nanogym.super.site/
+          #- icon: fab fa-twitter
+          #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: StarBooks | TFG de DAM
+        content: StarBooks es una aplicación de escritorio de Windows que realice como mi trabajo de fin de grado para el ciclo formativo de grado superior en Desarrollo de Aplicaciones Multiplataformas. Es una aplicación de intercambios de libros, la idea es una plataforma donde los usuarios puedan intercambiar libros que ya han leído por otros que quieren leer, de esta forma esos libros tienen una segunda vida, no gastan dinero en libros nuevos, etc...
+        #image: /images/projects/converter.jpg
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          #name: Demo
+          #link: https://django-converter.herokuapp.com
         badges:
           - "Django"
           - "Bootstrap"
@@ -332,19 +333,20 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+      #- title: Hugo Profile V2
+      #  content: A clean and simple Hugo template for personal portfolio and blog.
+      #  image: /images/projects/profile2.jpg
+      #  featured:
+       #   name: Demo V2
+       #   link: https://hugo-profile-2.netlify.app
+       # badges:
+        #  - "Hugo"
+         # - "Bootstrap"
+          #- "Javascript"
+       # links:
+        #  - icon: fab fa-github
+       #     url: https://github.com/gurusabarish/HugoProfileV2
+
 
   #Contact
   contact:
@@ -360,19 +362,19 @@ params:
     #   messageCaption: "Enter your message here"
     #   messageRows: 5
 
-  footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
+  #footer:
+   # recentPosts:
+   #   path: "blogs"
+    #  count: 3
+   #   title: Recent Posts
+   #   enable: true
+   #   disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/JorgeJG17
+      linkedin: https://www.linkedin.com/in/jorge-jim%C3%A9nez-garrido-641a29310/
+     # twitter: https://twitter.com
+     # instagram: https://instagram.com
+     # facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
