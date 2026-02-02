@@ -260,19 +260,20 @@ params:
         #  enable: true
         #  url: "https://example.com"
   
-  # Certificates
-  certificates:
+  # Education
+  education:
     enable: true
     title: "Formación Complementaria"
+    index: false
     items:
-      - name: "Java Professional Developer"
-        url: "https://link-al-certificado.com"
-        issuer: "Oracle / Udemy"
-        date: "2024"
-      - name: "Android App Development"
-        url: "#"
-        issuer: "Google"
-        date: "2023"
+      - title: "Título de Graduado Superior en Desarrollo de Aplicaciones Multiplataforma"
+        school:
+          name: "ILERNA SEVILLA"
+          url: "https://www.ilerna.es/fp-sevilla/"
+        date: "2022 - 2024"
+        #GPA: "3.8 out of 5.0"
+        content: |-
+          - Nota: 7,82
 
   # Achievements
   achievements:
