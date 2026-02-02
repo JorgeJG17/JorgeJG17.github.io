@@ -210,11 +210,11 @@ params:
         jobs:
           - name: "Reponedor de maquinas Vending en el Aeropuerto de Sevilla"
             date: "Sep 2022 - Sep 2024"
-            info:
-              content:Reponedor de las maquinas vending del Aeropuerto de Sevilla.
             content: |
               Estaba de Reponedor de las maquinas vending del Aeropuerto de Sevilla en Jornda completa 
               mientras estudiaba.
+            info: 
+              content: Reponedor de las maquinas vending del Aeropuerto de Sevilla.
 
       - company: "Burger King"
         companyUrl: "https://example.com"
