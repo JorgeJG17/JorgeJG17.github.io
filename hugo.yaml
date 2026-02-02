@@ -137,7 +137,7 @@ params:
     title: "Jorge."
     subtitle: "Desarrollador de software (Programador)"
     content: "Soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una profunda pasión por la programación y el mundo tecnológico."
-    image: /images/hero.svg
+    image: /images/mi_foto.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -160,22 +160,21 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
-    image: "/images/me.png"
+    title: "Sobre mi"
+    image: "/images/mi_foto.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      Soy Jorge, tengo 24 años, soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una profunda pasión por la programación y el mundo tecnológico. Mi entusiasmo por crear soluciones digitales innovadoras y eficientes me impulsa a enfrentar desafíos con creatividad y dedicación. A través de mi formación, he adquirido habilidades sólidas en el desarrollo de aplicaciones, y estoy comprometido con el aprendizaje continuo en esta industria en constante evolución. Estoy buscando oportunidades para aplicar mis conocimientos y contribuir a proyectos significativos en un entorno colaborativo y dinámico. Tengo muchas ganas de trabajar y aprender nuevas cosas. He estado trabajando y estudiando al mismo tiempo porque quiero progresar y mantenerme actualizado junto al mundo de la informática.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Y añadir que actualmente estoy estudiando inglés con una profesora particular nativa. Estoy en un nivel básico, pero muy motivado en el aprendizaje del idioma.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Conocimientos:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Lenguajes de programación: C#, Java, JavaScript"
+        - "Entornos de desarrollo (IDEs): Visual Studio, Eclipse, Android Studio"
+        - "Bases de datos:"
+        - "Lenguajes de consultas: SQL, PL/SQL"
+        - "Herramientas: Oracle SQL Developer, SQLite,"
 
   # Experience
   experience:
