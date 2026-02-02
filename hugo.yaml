@@ -262,17 +262,17 @@ params:
 
   certifications:
     enable: true
-    title: "Formación académica"
+    title: "Formación complementaria"
     index: false
     items:
-      - title: "Título de Graduado Superior en Desarrollo de Aplicaciones Multiplataforma"
+      - title: "Curso Java Tutorizado"
         school:
-          name: "ILERNA SEVILLA"
-          url: "https://www.ilerna.es/fp-sevilla/"
-        date: "2022 - 2024"
-        #GPA: "3.8 out of 5.0"
-        content: |-
-          - Nota: 7,82
+          name: "Pildoras Informaticas"
+          url: "https://www.pildorasinformaticas.es/"
+      - title: "Curso C#"
+        school:
+          name: "Pildoras Informaticas"
+          url: "https://www.pildorasinformaticas.es/"
 
   # Achievements
   achievements:
