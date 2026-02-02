@@ -259,11 +259,10 @@ params:
         #featuredLink:
         #  enable: true
         #  url: "https://example.com"
-  
-  # Education
-  education:
+
+  certifications:
     enable: true
-    title: "Formación Complementaria"
+    title: "Formación académica"
     index: false
     items:
       - title: "Título de Graduado Superior en Desarrollo de Aplicaciones Multiplataforma"
