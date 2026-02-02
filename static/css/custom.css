@@ -4,3 +4,8 @@
     padding-top: 100px !important; 
     padding-bottom: 20px !important; /* Ajusta esto a tu gusto */
 }
+
+/* Si el espacio es por la imagen del fondo */
+.hero-area {
+    padding-bottom: 0px !important;
+}
