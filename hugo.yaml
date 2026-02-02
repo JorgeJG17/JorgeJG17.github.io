@@ -181,80 +181,48 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - company: "Facebook"
+      - company: "Ayesa"
         companyUrl: "https://example.com"
         jobs:
-          - name: "Senior Software Developer"
-            date: "Jan 2023 - present"
-            content: "I am currently working as a senior software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          - name: "Desarrollador de software"
+            date: "Oct 2024 - Actual"
+            content: "Estoy en el equipo de mantenimiento y soporte de la plataforma 'EducamosCLM de la Junta de Comunidades de Castilla-La Mancha', con muchas ganas de seguir adquiriendo conocimientos sobre el proyecto y aprendizajes/habilidades de mis compañeros. Estoy aprovechando esta oportunidad para aprender lo máximo posible sobre el mundo de la programación y la tecnología."
             info:
-              content: Working as a senior software developer
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-brands fa-react
-                  url: https://react.dev/
-                  tooltip: Example tooltip content
-                - icon: fab fa-x-twitter
-                  url: https://example.com
-                  # tooltip: Example tooltip content
-              customIcons:
-                - icon: /fav.png
-                  url: "https://example.com"
-                  tooltip: Example tooltip content
-          - name: "Software Developer"
-            date: "Jan 2022 - Dec 2023"
-            content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
+              content: Desarrollador de software
+            #featuredItems:
+              #fontAwesomeIcons:
+              #  - icon: fa-brands fa-react
+              #    url: https://react.dev/
+              #    tooltip: Example tooltip content
+              #  - icon: fab fa-x-twitter
+              #    url: https://example.com
+              #    # tooltip: Example tooltip content
+              #customIcons:
+              #  - icon: /fav.png
+              #    url: "https://example.com"
+              #    tooltip: Example tooltip content
+          #- name: "Software Developer"
+          #  date: "Jan 2022 - Dec 2023"
+          #  content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
 
-      - company: "Amazon"
+      - company: "Areas"
         companyUrl: "https://example.com"
         jobs:
-          - name: "Software Developer"
-            date: "Sep 2020 - Dec 2021"
+          - name: "Reponedor de maquinas Vending en el Aeropuerto de Sevilla"
+            date: "Sep 2022 - Sep 2024"
             info:
-              content: I worked as a software developer for more than one year in Amazon.
+              content:Reponedor de las maquinas vending del Aeropuerto de Sevilla.
             content: |
-              I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+              Estaba de Reponedor de las maquinas vending del Aeropuerto de Sevilla en Jornda completa 
+              mientras estudiaba.
 
-              - Lead backend developer for a product.
-              - Created a frontend design for a product.
-
-      - company: "Apple"
+      - company: "Burger King"
         companyUrl: "https://example.com"
         jobs: 
-        - name: "Junior Software Developer"
-          date: "Jan 2020 - Aug 2020"
-          featuredItems:
-            fontAwesomeIcons:
-              - icon: fa-brands fa-react
-                url: https://react.dev/
-              - icon: fab fa-x-twitter
-                url: https://example.com
-            customIcons:
-              - icon: /fav.png
-                url: "https://example.com"
+        - name: "Repartidor de comida"
+          date: "Jul 2022 - Aug 2022"
           content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
-
-      - company: "Netflix"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "UI/UX Designer"
-          date: "June 2017 - Nov 2019"
-          content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
-
-      - company: "Google"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "Product Designer"
-          date: "Feb 2016 - Mar 2017"
-          content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+            Estaba de repartidor con la moto en el Burger King de Sevilla Este.
 
   # Education
   education:
