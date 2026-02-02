@@ -179,7 +179,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Experiencia"
     items:
       - company: "Ayesa"
         companyUrl: "https://example.com"
