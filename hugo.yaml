@@ -179,7 +179,7 @@ params:
   # Experience
   experience:
     enable: true
-    title: "Experiencia"
+    title: "Experiencia laboral"
     items:
       - company: "Ayesa"
         companyUrl: "https://example.com"
@@ -227,45 +227,38 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "Formación académica"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Título de Graduado Superior en Desarrollo de Aplicaciones Multiplataforma"
         school:
-          name: "University of California, Berkeley"
+          name: "ILERNA SEVILLA"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2022 - 2024"
+        #GPA: "3.8 out of 5.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          - Nota: 7,82
+      - title: "Título de Graduado en Bachillerato Ciencias Tecnológicas"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "IES V CENTENARIO SEVILLA"
           url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+        date: "2020 - 2022"
+        #GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+          - Nota: 6,24
+        #featuredLink:
+        #  enable: true
+        #  name: "My academic record"
+        #  url: "https://example.com"
+      - title: "Título de Graduado en ESO"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
+          name: "Centro Lope de Vega SEVILLA"
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        date: "2015 - 2018"
+        #GPA: "4.2 out of 5.0"
+        #featuredLink:
+        #  enable: true
+        #  url: "https://example.com"
 
   # Achievements
   achievements:
