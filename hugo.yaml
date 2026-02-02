@@ -1,6 +1,6 @@
 baseURL: "https://jorgejg17.github.io/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Jorge Jiménez Garrido"
 theme: hugo-profile
 
 outputs:
@@ -182,7 +182,7 @@ params:
     title: "Experiencia laboral"
     items:
       - company: "Ayesa"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.ayesa.com/"
         jobs:
           - name: "Desarrollador de software"
             date: "Oct 2024 - Actual"
@@ -206,7 +206,7 @@ params:
           #  content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
 
       - company: "Areas"
-        companyUrl: "https://example.com"
+        companyUrl: "https://es.areas.com/es/"
         jobs:
           - name: "Reponedor de maquinas Vending en el Aeropuerto de Sevilla"
             date: "Sep 2022 - Sep 2024"
@@ -217,7 +217,7 @@ params:
               content: Reponedor de las maquinas vending del Aeropuerto de Sevilla.
 
       - company: "Burger King"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.burgerking.es/es/"
         jobs: 
         - name: "Repartidor de comida"
           date: "Jul 2022 - Aug 2022"
@@ -233,7 +233,7 @@ params:
       - title: "Título de Graduado Superior en Desarrollo de Aplicaciones Multiplataforma"
         school:
           name: "ILERNA SEVILLA"
-          url: "https://example.org"
+          url: "https://www.ilerna.es/fp-sevilla/"
         date: "2022 - 2024"
         #GPA: "3.8 out of 5.0"
         content: |-
@@ -241,7 +241,7 @@ params:
       - title: "Título de Graduado en Bachillerato Ciencias Tecnológicas"
         school:
           name: "IES V CENTENARIO SEVILLA"
-          url: "https://example.org"
+          url: "http://www.iesvcentenario.org/"
         date: "2020 - 2022"
         #GPA: "3.9 out of 5.0"
         content: |-
@@ -253,12 +253,26 @@ params:
       - title: "Título de Graduado en ESO"
         school:
           name: "Centro Lope de Vega SEVILLA"
-          url: "https://example.org"
+          url: "https://www.lopedevega.net/"
         date: "2015 - 2018"
         #GPA: "4.2 out of 5.0"
         #featuredLink:
         #  enable: true
         #  url: "https://example.com"
+  
+  # Certificates
+  certificates:
+    enable: true
+    title: "Formación Complementaria"
+    items:
+      - name: "Java Professional Developer"
+        url: "https://link-al-certificado.com"
+        issuer: "Oracle / Udemy"
+        date: "2024"
+      - name: "Android App Development"
+        url: "#"
+        issuer: "Google"
+        date: "2023"
 
   # Achievements
   achievements:
