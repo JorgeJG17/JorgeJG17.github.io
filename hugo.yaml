@@ -119,11 +119,11 @@ params:
     brandLogo: "/personaje.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Jorge Jiménez Garrido" # Brand name for the brand | default is the title variable
-    disableSearch: false
+    disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : false
-      showOnScrollUp : false
+      enable : true
+      showOnScrollUp : true
     enableSeparator: false
     menus:
       disableAbout: false
@@ -191,13 +191,20 @@ params:
             info:
               content: Desarrollador de software
             featuredItems:
+              featuredItems:
               fontAwesomeIcons:
                 - icon: fab fa-java
-                  url: "https://www.java.com/"
+                  url: "#"
                   tooltip: Java
                 - icon: fas fa-database
                   url: "#"
-                  tooltip: SQL / Bases de Datos
+                  tooltip: SQL / Oracle SQL Developer
+                - icon: fas fa-code
+                  url: "#"
+                  tooltip: Eclipse IDE
+                - icon: fab fa-js
+                  url: "#"
+                  tooltip: JavaScript
               #    url: https://react.dev/
               #    tooltip: Example tooltip content
               #  - icon: fab fa-x-twitter
