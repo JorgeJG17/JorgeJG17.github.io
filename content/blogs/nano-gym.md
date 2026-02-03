@@ -1,7 +1,7 @@
 ---
 title: "NanoGym | Gestión de Rutinas"
 date: 2026-01-01T22:53:58+05:30
-draft: false
+draft: true
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Jorge Jiménez Garrido"
 tags:
