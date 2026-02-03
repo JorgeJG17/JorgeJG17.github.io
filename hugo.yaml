@@ -122,7 +122,7 @@ params:
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
+      enable : false
       showOnScrollUp : true
     enableSeparator: false
     menus:
@@ -139,7 +139,7 @@ params:
     intro: "Hey, mi nombre es"
     title: "Jorge."
     subtitle: "Desarrollador de software (Programador) Backend"
-    content: "Soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una profunda pasión por la programación y el mundo tecnológico."
+    content: "Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una profunda pasión por la programación y el mundo tecnológico."
     image: /images/mi_foto.jpg
     bottomImage:
       enable: false
@@ -166,7 +166,7 @@ params:
     title: "Sobre mi"
     image: "/images/mi_foto.jpg"
     content: |-
-      Soy Jorge, tengo 24 años, soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una profunda pasión por la programación y el mundo tecnológico. Mi entusiasmo por crear soluciones digitales innovadoras y eficientes me impulsa a enfrentar desafíos con creatividad y dedicación. A través de mi formación, he adquirido habilidades sólidas en el desarrollo de aplicaciones, y estoy comprometido con el aprendizaje continuo en esta industria en constante evolución. Estoy buscando oportunidades para aplicar mis conocimientos y contribuir a proyectos significativos en un entorno colaborativo y dinámico. Tengo muchas ganas de trabajar y aprender nuevas cosas. He estado trabajando y estudiando al mismo tiempo porque quiero progresar y mantenerme actualizado junto al mundo de la informática.
+      Mi entusiasmo por crear soluciones digitales innovadoras y eficientes me impulsa a enfrentar desafíos con creatividad y dedicación. A través de mi formación, he adquirido habilidades sólidas en el desarrollo de aplicaciones, y estoy comprometido con el aprendizaje continuo en esta industria en constante evolución. Estoy buscando oportunidades para aplicar mis conocimientos y contribuir a proyectos significativos en un entorno colaborativo y dinámico. Tengo muchas ganas de trabajar y aprender nuevas cosas. He estado trabajando y estudiando al mismo tiempo porque quiero progresar y mantenerme actualizado junto al mundo de la informática.
 
       Y añadir que actualmente estoy estudiando inglés con una profesora particular nativa. Estoy en un nivel básico, pero muy motivado en el aprendizaje del idioma.
     skills:
@@ -176,8 +176,8 @@ params:
         - "Lenguajes de programación: C#, Java, JavaScript"
         - "Entornos de desarrollo (IDEs): Visual Studio, Eclipse, Android Studio"
         - "Bases de datos:"
-        - "Lenguajes de consultas: SQL, PL/SQL"
-        - "Herramientas: Oracle SQL Developer, SQLite,"
+        - "   - Lenguajes de consultas: SQL, PL/SQL"
+        - "   - Herramientas: Oracle SQL Developer, SQLite"
 
   # Experience
   experience:
@@ -253,11 +253,6 @@ params:
         #  enable: true
         #  name: "My academic record"
         #  url: "https://example.com"
-      - title: "Título de Graduado en ESO"
-        school:
-          name: "Centro Lope de Vega SEVILLA"
-          url: "https://www.lopedevega.net/"
-        date: "2015 - 2018"
         #GPA: "4.2 out of 5.0"
         #featuredLink:
         #  enable: true
