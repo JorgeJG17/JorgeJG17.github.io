@@ -175,9 +175,7 @@ params:
       items:
         - "Lenguajes de programación: C#, Java, JavaScript"
         - "Entornos de desarrollo (IDEs): Visual Studio, Eclipse, Android Studio"
-        - "Bases de datos:"
-        - "   - Lenguajes de consultas: SQL, PL/SQL"
-        - "   - Herramientas: Oracle SQL Developer, SQLite"
+        - "Bases de datos: SQL, PL/SQL (Oracle SQL Developer, SQLite)"
 
   # Experience
   experience:
@@ -192,9 +190,14 @@ params:
             content: "Estoy en el equipo de mantenimiento y soporte de la plataforma 'EducamosCLM de la Junta de Comunidades de Castilla-La Mancha', con muchas ganas de seguir adquiriendo conocimientos sobre el proyecto y aprendizajes/habilidades de mis compañeros. Estoy aprovechando esta oportunidad para aprender lo máximo posible sobre el mundo de la programación y la tecnología."
             info:
               content: Desarrollador de software
-            #featuredItems:
-              #fontAwesomeIcons:
-              #  - icon: fa-brands fa-react
+            featuredItems:
+              fontAwesomeIcons:
+                - icon: fab fa-java
+                  url: "https://www.java.com/"
+                  tooltip: Java
+                - icon: fas fa-database
+                  url: "#"
+                  tooltip: SQL / Bases de Datos
               #    url: https://react.dev/
               #    tooltip: Example tooltip content
               #  - icon: fab fa-x-twitter
