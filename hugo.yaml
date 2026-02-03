@@ -138,7 +138,7 @@ params:
     enable: true
     intro: "Hey, mi nombre es"
     title: "Jorge."
-    subtitle: "Desarrollador de software (Programador)"
+    subtitle: "Desarrollador de software (Programador) Backend"
     content: "Soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una profunda pasión por la programación y el mundo tecnológico."
     image: /images/mi_foto.jpg
     bottomImage:
@@ -319,7 +319,7 @@ params:
           #- icon: fa fa-envelope
           #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://nanogym.super.site/
+            url: https://github.com/JorgeJG17/NanoGym
           #- icon: fab fa-twitter
           #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
@@ -330,11 +330,13 @@ params:
           #name: Demo
           #link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "C#"
+          - "SQL"
+          - "SQLite"
+          - "Visual Studio"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/JorgeJG17/ProyectoFinDeGrado
 
       #- title: Hugo Profile V2
       #  content: A clean and simple Hugo template for personal portfolio and blog.
