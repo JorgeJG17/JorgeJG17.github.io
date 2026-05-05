@@ -166,7 +166,7 @@ params:
     title: "Sobre mi"
     image: "/images/mi_foto.jpg"
     content: |-
-      Mi entusiasmo por crear soluciones digitales innovadoras y eficientes me impulsa a enfrentar desafíos con creatividad y dedicación. A través de mi formación, he adquirido habilidades sólidas en el desarrollo de aplicaciones, y estoy comprometido con el aprendizaje continuo en esta industria en constante evolución. Estoy buscando oportunidades para aplicar mis conocimientos y contribuir a proyectos significativos en un entorno colaborativo y dinámico. Tengo muchas ganas de trabajar y aprender nuevas cosas. He estado trabajando y estudiando al mismo tiempo porque quiero progresar y mantenerme actualizado junto al mundo de la informática.
+      Mi entusiasmo por crear soluciones digitales innovadoras y eficientes me impulsa a enfrentar desafíos con creatividad y dedicación. A través de mi formación, he adquirido habilidades sólidas en el desarrollo de aplicaciones, y estoy comprometido con el aprendizaje continuo en esta industria en constante evolución. Estoy buscando oportunidades para aplicar mis conocimientos y contribuir a proyectos significativos en un entorno colaborativo y dinámico. Tengo muchas ganas de unirme a nuevos proyectos donde se pueda crecer y mejorar constantemente. He estado trabajando y estudiando al mismo tiempo porque quiero progresar y mantenerme actualizado junto al mundo de la informática.
 
       Y añadir que actualmente estoy estudiando inglés con una profesora particular nativa. Estoy en un nivel básico, pero muy motivado en el aprendizaje del idioma.
     skills:
@@ -187,7 +187,10 @@ params:
         jobs:
           - name: "Desarrollador de software"
             date: "Oct 2024 - Actual"
-            content: "Estoy en el equipo de mantenimiento y soporte de la plataforma 'EducamosCLM de la Junta de Comunidades de Castilla-La Mancha', con muchas ganas de seguir adquiriendo conocimientos sobre el proyecto y aprendizajes/habilidades de mis compañeros. Estoy aprovechando esta oportunidad para aprender lo máximo posible sobre el mundo de la programación y la tecnología."
+            content: |-
+              Estoy en el equipo de mantenimiento y soporte de la plataforma 'EducamosCLM de la Junta de Comunidades de Castilla-La Mancha', realizando resolución de incidencias y soporte de los aplicativos como (Delphos, Secretaría Virtual, Seguimiento Educativo).
+            
+              Utilizando: Java, SQL, Dbeaver, Oracle SQL Developer, Eclipse y un poco de JavaScript.
             info:
               content: Desarrollador de software
             featuredItems:
