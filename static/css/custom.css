@@ -1,11 +1,16 @@
 /* Forzar que el hero no ocupe toda la pantalla */
 #hero {
-    min-height: auto !important; /* Quita el mínimo de pantalla completa */
-    padding-top: 100px !important; 
-    padding-bottom: 20px !important; /* Ajusta esto a tu gusto */
+    min-height: fit-content !important; 
+    height: auto !important;
+    padding-top: 80px !important; /* Espacio para el navbar sticky */
+    padding-bottom: 20px !important;
+    display: block !important; /* Rompe el centrado vertical forzado si es flex */
 }
 
 /* Si el espacio es por la imagen del fondo */
 .hero-area {
-    padding-bottom: -100px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
 }
