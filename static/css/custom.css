@@ -1,7 +1,7 @@
 /* Forzar que el hero no ocupe toda la pantalla */
 #hero {
     min-height: auto !important; /* Quita el mínimo de pantalla completa */
-    padding-top: 100px !important; 
+    padding-top: 50px !important; 
     padding-bottom: 20px !important; /* Ajusta esto a tu gusto */
 }
 
