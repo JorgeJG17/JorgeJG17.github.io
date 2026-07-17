@@ -7,10 +7,14 @@
     display: block !important; /* Rompe el centrado vertical forzado si es flex */
 }
 
-/* Si el espacio es por la imagen del fondo */
+/* Reduce el espacio vertical en las secciones de Hugo Profile */
+.section {
+    padding-top: 1.5rem !important;   /* Por defecto suele ser 5rem, al bajarlo a 1.5rem se reduce mucho el hueco */
+    padding-bottom: 1.5rem !important;
+}
+
+/* Si quieres ajustar aún más el bloque superior del Hero (donde dice Jorge) */
 .hero-area {
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    padding-bottom: 0rem !important;
+    margin-bottom: 0rem !important;
 }
