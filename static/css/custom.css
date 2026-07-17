@@ -7,14 +7,23 @@
     display: block !important; /* Rompe el centrado vertical forzado si es flex */
 }
 
-/* Reduce el espacio vertical en las secciones de Hugo Profile */
-.section {
-    padding-top: 1.5rem !important;   /* Por defecto suele ser 5rem, al bajarlo a 1.5rem se reduce mucho el hueco */
-    padding-bottom: 1.5rem !important;
-}
+/* Esto aplicará los cambios SOLO en ordenadores y pantallas grandes */
+@media (min-width: 992px) {
+    
+    /* Reduce el espacio del contenedor principal de tu presentación */
+    .hero-area, 
+    #home,
+    .fullscreen-view {
+        min-height: auto !important; /* Evita que ocupe toda la pantalla obligatoriamente */
+        height: auto !important;
+        padding-bottom: 2rem !important;
+    }
 
-/* Si quieres ajustar aún más el bloque superior del Hero (donde dice Jorge) */
-.hero-area {
-    padding-bottom: 0rem !important;
-    margin-bottom: 0rem !important;
+    /* Reduce el espacio superior de la sección Sobre mí */
+    #about, 
+    .about-section,
+    .section {
+        padding-top: 2rem !important;
+        margin-top: 0rem !important;
+    }
 }
