@@ -190,7 +190,7 @@ params:
             content: |-
               Estoy en el equipo de mantenimiento y soporte de la plataforma 'EducamosCLM de la Junta de Comunidades de Castilla-La Mancha', realizando resolución de incidencias y soporte de los aplicativos como (Delphos, Secretaría Virtual, Seguimiento Educativo).
             
-              Utilizando: Java, SQL, Dbeaver, Oracle SQL Developer, Eclipse y un poco de JavaScript.
+              Utilizando: Java, SQL, Dbeaver, Oracle SQL Developer, Eclipse y un poco de JavaScript. También estoy aprendiendo sobre Reports en Reports Builder.
             info:
               content: Desarrollador de software
             featuredItems:
@@ -276,6 +276,11 @@ params:
     title: "Formación complementaria"
     index: false
     items:
+     - title: "Unreal Engine 5: Curso de Desarrollo con C++ y Blueprints (ACTUAL 2026)"
+        school:
+          name: "Udemy"
+          url: "https://www.udemy.com/share/10chF73@OsUNFFLV5c8G0BNqfiloofFPVSo5_ZfY6F7qGIa1W2mBJ-RKuR8bbjlFf8eUtn8FuQ==/"
+
       - title: "Curso Java Tutorizado"
         school:
           name: "Pildoras Informaticas"
