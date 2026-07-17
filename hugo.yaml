@@ -276,7 +276,7 @@ params:
     title: "Formación complementaria"
     index: false
     items:
-     - title: "Unreal Engine 5: Curso de Desarrollo con C++ y Blueprints (ACTUAL 2026)"
+      - title: "Unreal Engine 5: Curso de Desarrollo con C++ y Blueprints (ACTUAL 2026)"
         school:
           name: "Udemy"
           url: "https://www.udemy.com/share/10chF73@OsUNFFLV5c8G0BNqfiloofFPVSo5_ZfY6F7qGIa1W2mBJ-RKuR8bbjlFf8eUtn8FuQ==/"
