@@ -152,7 +152,7 @@ params:
     #   newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fas fa-file-alt
+        - icon: ai ai-cv
           url: CV_Jorge.pdf
         - icon: fab fa-github
           url: https://github.com/JorgeJG17
