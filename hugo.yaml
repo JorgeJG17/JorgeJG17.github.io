@@ -152,6 +152,8 @@ params:
     #   newPage: false
     socialLinks:
       fontAwesomeIcons:
+        - icon: fas fa-file-download
+          url: CV_Jorge.pdf
         - icon: fab fa-github
           url: https://github.com/JorgeJG17
         - icon: fab fa-linkedin
