@@ -374,6 +374,8 @@ params:
     content: Puedes escribirme un mail o escribirme por mi perfil de linkedin
     btnName: Envíame un correo
     btnLink: mailto:jorgejimenezgarrido18@gmail.com
+    btnName2: CV
+    btnLink2: /CV_Jorge.pdf
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
