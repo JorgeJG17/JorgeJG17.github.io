@@ -278,10 +278,14 @@ params:
     title: "Formación complementaria"
     index: false
     items:
-      - title: "Unreal Engine 5: Curso de Desarrollo con C++ y Blueprints (ACTUAL 2026)"
+    - title: "Curso de Desarrollo con IA: Programa con Agentes"
         school:
-          name: "Udemy"
-          url: "https://www.udemy.com/share/10chF73@OsUNFFLV5c8G0BNqfiloofFPVSo5_ZfY6F7qGIa1W2mBJ-RKuR8bbjlFf8eUtn8FuQ==/"
+          name: "TheBigShool con Brais Moure"
+          url: "https://thebigschool.com/"
+      #- title: "Unreal Engine 5: Curso de Desarrollo con C++ y Blueprints (ACTUAL 2026)"
+      #  school:
+      #    name: "Udemy"
+      #    url: "https://www.udemy.com/share/10chF73@OsUNFFLV5c8G0BNqfiloofFPVSo5_ZfY6F7qGIa1W2mBJ-RKuR8bbjlFf8eUtn8FuQ==/"
       - title: "Curso Java Tutorizado"
         school:
           name: "Pildoras Informaticas"
@@ -322,13 +326,14 @@ params:
         content: NanoGym nace de una necesidad personal, eliminar la fricción en el gimnasio. Utilizaba una hoja de cálculo para guardar mis rutinas y pesos, y decidí hacer mi propia app para tener mis registros guardados. Mientras que las aplicaciones comerciales se han vuelto pesadas, llenas de publicidad y dependientes de una conexión a internet, NanoGym apuesta por el minimalismo y la privacidad total.
         image: /images/projects/logo_app.png
         featured:
-          name: Web
-          link: https://nanogym.super.site/
+          name: Documentación
+          link: https://app.notion.com/p/Bienvenido-a-la-Beta-de-NanoGym-203429e5ac5c80de83ddf56a74b8e56d?source=copy_link
         badges:
           - "Java"
           - "SQL"
           - "Android Studio"
           - "SQLite"
+          - "Codex"
         links:
           #- icon: fa fa-envelope
           #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
