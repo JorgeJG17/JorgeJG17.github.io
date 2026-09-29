@@ -278,7 +278,7 @@ params:
     title: "Formación complementaria"
     index: false
     items:
-    - title: "Curso de Desarrollo con IA: Programa con Agentes"
+      - title: "Curso de Desarrollo con IA: Programa con Agentes"
         school:
           name: "TheBigShool con Brais Moure"
           url: "https://thebigschool.com/sp/curso-desarrollo-ia-agentes-eg/"
