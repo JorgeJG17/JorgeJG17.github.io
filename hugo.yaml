@@ -322,8 +322,8 @@ params:
     enable: true
     title: "Proyectos"
     items:
-      - title: SyJer | Gestión de Rutinas
-        content: SyJer nace de una necesidad personal, eliminar la fricción en el gimnasio. Utilizaba una hoja de cálculo para guardar mis rutinas y pesos, y decidí hacer mi propia app para tener mis registros guardados. Mientras que las aplicaciones comerciales se han vuelto pesadas, llenas de publicidad y dependientes de una conexión a internet, SyJer apuesta por el minimalismo y la privacidad total.
+      - title: ZyJer | Gestión de Rutinas
+        content: ZyJer nace de una necesidad personal, eliminar la fricción en el gimnasio. Utilizaba una hoja de cálculo para guardar mis rutinas y pesos, y decidí hacer mi propia app para tener mis registros guardados. Mientras que las aplicaciones comerciales se han vuelto pesadas, llenas de publicidad y dependientes de una conexión a internet, ZyJer apuesta por el minimalismo y la privacidad total.
         image: /images/projects/logo_app.png
         featured:
           name: Documentación
@@ -338,7 +338,7 @@ params:
           #- icon: fa fa-envelope
           #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/JorgeJG17/NanoGym
+            url: https://github.com/JorgeJG17/ZyJer
           #- icon: fab fa-twitter
           #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
