@@ -139,7 +139,7 @@ params:
     intro: "Hey, mi nombre es"
     title: "Jorge."
     subtitle: "Desarrollador de software (Programador) Backend"
-    content: "Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una profunda pasión por la programación y el mundo tecnológico."
+    content: " Desarrollador de software con 2 años de experiencia profesional trabajando con Java, JSP, SQL, Oracle en el mantenimiento y evolución de aplicaciones de EducamosCLM."
     image: /images/mi_foto.jpg
     bottomImage:
       enable: false
@@ -168,8 +168,11 @@ params:
     title: "Sobre mi"
     image: "/images/mi_foto.jpg"
     content: |-
-      Mi entusiasmo por crear soluciones digitales innovadoras y eficientes me impulsa a enfrentar desafíos con creatividad y dedicación. A través de mi formación, he adquirido habilidades sólidas en el desarrollo de aplicaciones, y estoy comprometido con el aprendizaje continuo en esta industria en constante evolución. Estoy buscando oportunidades para aplicar mis conocimientos y contribuir a proyectos significativos en un entorno colaborativo y dinámico. Tengo muchas ganas de unirme a nuevos proyectos donde se pueda crecer y mejorar constantemente. He estado trabajando y estudiando al mismo tiempo porque quiero progresar y mantenerme actualizado junto al mundo de la informática.
-
+      Desarrollador de software con 2 años de experiencia profesional trabajando con Java, JSP, SQL, Oracle en el mantenimiento y
+      evolución de aplicaciones de EducamosCLM. Experiencia en resolución de incidencias, soporte y desarrollo de nuevas
+      funcionalidades. Además, desarrollo de forma independiente una aplicación Android nativa en Java y SQLite. Actualmente
+      ampliando conocimientos en IA aplicada al desarrollo y agentes de programación.
+        
       Y añadir que actualmente estoy estudiando inglés con una profesora particular nativa. Estoy en un nivel básico, pero muy motivado en el aprendizaje del idioma.
     skills:
       enable: true
